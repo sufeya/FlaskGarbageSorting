@@ -23,7 +23,7 @@ class Config(object):
     # 指定数据库连接池的超时时间
     SQLALCHEMY_POOL_TIMEOUT = 10
     # 控制在连接池达到最大值后可以创建的连接数。当这些额外的 连接回收到连接池后将会被断开和抛弃。
-    SQLALCHEMY_MAX_OVERFLOW = 2
+    SQLALCHEMY_MAX_OVERFLOW = 232
 
 
 
