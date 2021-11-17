@@ -1,0 +1,2 @@
+# FlaskGarbageSorting
+使用flask框架搭建一个微信小程序后端
